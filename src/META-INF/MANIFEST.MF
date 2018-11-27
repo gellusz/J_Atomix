@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: junit-4.13-beta-1.jar hamcrest-2.1-rc1.jar javax.json.jar 
+ javax.json.bind-api.jar javax.persistence.jar
+Main-Class: Application.Main
+
